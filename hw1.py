@@ -1,3 +1,6 @@
+'''
+Code for homework 1 of the externship
+'''
 #task 1 code
 name = 'Samuel'
 age = '27'
