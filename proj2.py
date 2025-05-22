@@ -1,3 +1,6 @@
+'''
+Code for Project: Number Guessing Game
+'''
 import random
 
 guess_dis = random.randint(1, 100)
