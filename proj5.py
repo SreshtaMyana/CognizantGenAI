@@ -1,5 +1,5 @@
 '''
-Code for 
+Code for Project: About Menu
 '''
 #factorial method
 def factorial(num):
