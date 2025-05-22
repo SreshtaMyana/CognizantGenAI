@@ -1,5 +1,5 @@
 '''
-Code for 
+Code for Project: Password Strength Checker
 '''
 pass_wrd = input('enter a password: ')
 upper_count = 0
