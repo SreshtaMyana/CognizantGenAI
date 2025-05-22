@@ -1,3 +1,6 @@
+'''
+Code for Assignment: 
+'''
 num = int(input('enter your starting number: '))
 if num > 0:
     while num != 0:
